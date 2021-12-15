@@ -38,7 +38,7 @@ Theme: **LEAPS AND BOUNDS**.
 
 ### Installation
 
-1. Clone repository: `git clone https://github.com/GuiBDBello/Unreliable.git`.
+1. Clone repository: `git clone https://github.com/GuiBDBello/BlockAndRun.git`.
 2. Launch Unreal Engine from the Epic Games Launcher.
 3. `Browse... > Select the project folder > Open`.
 
